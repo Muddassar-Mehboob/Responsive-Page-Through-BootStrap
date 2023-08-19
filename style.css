@@ -1,0 +1,21 @@
+.bg-color{
+    background-color: #2540e4;
+}
+
+.btn-success{
+    background-color: #00ba94;
+}
+
+.card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+.bg-color2{
+   background-color: #212832; 
+}
+.bg-color3{
+    background-color: #6c757d6e;
+}
